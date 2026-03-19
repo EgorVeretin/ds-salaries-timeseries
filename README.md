@@ -24,3 +24,6 @@
 - **MAE ≈ 52k USD**
 
 Модель демонстрирует адекватную предсказательную способность.
+
+## 📁 Данные
+Исходный датасет: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) на Kaggle.
